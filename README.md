@@ -68,6 +68,6 @@
 <div align="center">
     
 ![Donggeun's github stats](https://github-readme-stats.vercel.app/api?username=DonggeunC&show_icons=true)
-![Language Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=Donggeun&langs_count=10)
+![Language Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=DonggeunC&langs_count=10)
     
 </div>
