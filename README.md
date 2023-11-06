@@ -18,13 +18,13 @@
 
 <p align="center">
 
-## 기술 수택
+## 기술 스택
 
 | <center>분류</center> |<center>기술 스택</center>|
 | :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Languages & Code Rules*|<img src="https://img.shields.io/badge/C-A8B0C0?style=plastic&logo=Coursera&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396.svg?&style=plastic&logo=Java&logoColor=white"/>|
 | *IDE*| <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=plastic&logo=Eclipse%20IDE&logoColor=white"/> <img src = "https://img.shields.io/badge/AndroidStudio-3DDC84?style=plastic&logo=Androidstudio&logoColor=white"> |
-| *OS*|<img src="https://img.shields.io/badge/Windows10-0078D6?style=plastic&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCA024?style=plastic&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-#262577?style=plastic&logo=CentOS&logoColor=white"/> |
+| *OS*|<img src="https://img.shields.io/badge/Windows10-0078D6?style=plastic&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCA024?style=plastic&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-#262577?style=plastic&logo=Centos&logoColor=white"/> |
 | *Platform & Library & Package*| <img src="https://img.shields.io/badge/Qt-41CD52?style=plastic&logo=Qt&logoColor=white"/>  |
 
 <br>
